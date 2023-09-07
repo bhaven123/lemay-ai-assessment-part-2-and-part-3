@@ -1,0 +1,5 @@
+venv
+.DS_Store
+typings
+.ipynb_checkpoints
+.DS_Store
