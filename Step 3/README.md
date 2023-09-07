@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a demonstration of exploratory data analysis on [Iris dataset](https://huggingface.co/datasets/scikit-learn/iris) in the [huggingface](https://huggingface.co/datasets) dataset hub.
+This repository is a demonstration of exploratory data analysis on [Iris dataset](https://huggingface.co/datasets/scikit-learn/iris) on the [huggingface](https://huggingface.co/datasets) dataset hub.
 
 ## Installing and running the demo
 
@@ -14,12 +14,14 @@ Steps to **run** the jupyter notebook:
   git clone repository-url
   ```
 
-  . You can open it using **Visual Studio Code** or any editor of your choice. We need to have the Jupyter extension to run the notebook inside an editor.
+  You can open it using **Visual Studio Code** or any editor of your choice. We need to have the Jupyter extension to run the notebook inside an editor. Navigate to Step 3 directory.
 
 - Alternatively, if we already have **jupyterlab** or **jupyter** installed on our system, we can start a terminal in the project directory and run the command
+
   ```
   jupyter lab or jupyter notebook
   ```
+
 - In the project folder, we find a **requirements.txt** file. We need to have pip3 installed, and we can run the command
 
   ```

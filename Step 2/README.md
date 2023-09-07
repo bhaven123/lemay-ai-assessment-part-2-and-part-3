@@ -14,7 +14,7 @@ Steps to create the docker image and run the docker container:
   git clone repository-url
   ```
 
-  . You can open it using **Visual Studio Code** or any editor of your choice.
+  You can open it using **Visual Studio Code** or any editor of your choice. Navigate to Step 2 directory.
 
 - We need to have docker installed on our system. The docker image can either be created (in the root directory which has the Dockerfile) using the command
 
